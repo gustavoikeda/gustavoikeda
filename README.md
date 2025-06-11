@@ -10,4 +10,4 @@
 ## Projetos
 
 ### [Clone Jogo Termo](https://github.com/gustavoikeda/Jogo-Termo-em-python)
-⌨️ Recriação do jogo Termo, feito em python, com feedback visual que orienta o jogador após cada tentativa utilizando o pacote termcolor
+⌨️ Recriação do jogo Termo, feito em python, para ser executada no terminal, com feedback visual que orienta o jogador após cada tentativa utilizando o pacote termcolor
